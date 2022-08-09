@@ -1,0 +1,79 @@
+.certificates__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:2rem;
+}
+
+.certificates__container > div{ 
+background: var(--color-bg-variant);
+padding:2.4rem 5rem ; 
+border-radius: 2rem;
+border: 1px solid transparent;
+transition: var(--transition);
+}
+
+.certificates__container > div:hover{
+background: transparent;
+border-color: var(--color-primary-variant);
+cursor: default;
+} 
+
+.certificates__container > div h3{
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+}
+
+.certificates__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+}
+
+.certificates__details{
+    display: flex;
+    gap: 1rem;
+
+
+}
+
+.certificates__details{
+    margin-top: 6px;
+    color: var(--color-primary);
+
+}
+
+/* ========================= Media Query (MEDIUM DEVICE) ===================*/
+@media screen and (max-width: 1024px) {
+    .certificates__container {
+        grid-template-columns: 1fr;
+        overflow-y: hidden;
+    }
+    .certificates__container > div{
+        width: 80%;
+        max-height: 100%;
+        padding: 2rem;
+        margin: 0 auto;
+
+    }
+
+    .certificates__content{
+        padding: 1rem;
+
+    }
+  
+  }
+  
+  /* ========================= Media Query (SMALL DEVICE) ===================*/
+  @media screen and (max-width: 600px) {
+   .certificates__container {
+        gap:1rem ;
+        overflow-y: hidden;
+       
+
+    }
+    .certificates__container > div{
+        width: 100%;
+        padding:  2rem 1rem;
+    }
+  }
