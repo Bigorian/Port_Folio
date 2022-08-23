@@ -162,7 +162,7 @@ const Certificates = () => {
             <article className='certificates__details'>
               <GrCertificate className='certificates__details-icon' />
               <div>
-                <div className='steel'><a href="https://www.img.in.th/images/3cb49e36d2262555a4031a2ba6ef621c.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">'IATF 16949' 2016 "Internal Audit" (Entec Quality Management) </a></div>
+                <div className='steel'><a href="https://www.img.in.th/images/3cb49e36d2262555a4031a2ba6ef621c.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">IATF 16949' 2016 "Internal Audit" (Entec Quality Management) </a></div>
                 <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
@@ -170,8 +170,16 @@ const Certificates = () => {
             <article className='certificates__details'>
               <GrCertificate className='certificates__details-icon' />
               <div>
-                <div className='entrepreneur'><a href="https://www.img.in.th/images/bb563865b4f3d9cd1d8d491e4ed1fafa.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">'Social Entrepreneur Ship and Start Up Camp (SEDA) </a></div>
+                <div className='entrepreneur'><a href="https://www.img.in.th/images/bb563865b4f3d9cd1d8d491e4ed1fafa.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Social Entrepreneur Ship and Start Up Camp (SEDA) </a></div>
                 <small className='text-light'>Intermediate Level</small>
+              </div>
+            </article>
+
+            <article className='certificates__details'>
+              <GrCertificate className='certificates__details-icon' />
+              <div>
+                <div className='entrepreneur'><a href="https://www.img.in.th/images/2badd42959a175ea112ce00356d883a2.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Certificate of the results of general knowledge measurement(OCSC) </a></div>
+                <small className='text-light'>Certificate</small>
               </div>
             </article>
 
