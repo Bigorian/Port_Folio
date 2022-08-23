@@ -89,7 +89,7 @@ const Certificates = () => {
             <article className='certificates__details'>
               <GrCertificate className='certificates__details-icon' />
               <div>
-                <div className='mongoDB'><a href="https://www.img.in.th/images/55ce6eb454f6020dad6e2abfa2e76c48.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">MongoDB</a></div>
+                <div className='mongoDB'><a href="https://www.img.in.th/images/55ce6eb454f6020dad6e2abfa2e76c48.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Mongo DB (Mongo DB University)</a></div>
                 <small className='text-light'>Beginner</small>
               </div>
             </article>
@@ -163,6 +163,14 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='steel'><a href="https://www.img.in.th/images/3cb49e36d2262555a4031a2ba6ef621c.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">'IATF 16949' 2016 "Internal Audit" (Entec Quality Management) </a></div>
+                <small className='text-light'>Intermediate Level</small>
+              </div>
+            </article>
+
+            <article className='certificates__details'>
+              <GrCertificate className='certificates__details-icon' />
+              <div>
+                <div className='entrepreneur'><a href="https://www.img.in.th/images/bb563865b4f3d9cd1d8d491e4ed1fafa.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">'Social Entrepreneur Ship and Start Up Camp (SEDA) </a></div>
                 <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
