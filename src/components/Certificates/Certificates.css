@@ -45,6 +45,7 @@ cursor: default;
 
 /* ========================= Media Query (MEDIUM DEVICE) ===================*/
 @media screen and (max-width: 1024px) {
+  
     .certificates__container {
         grid-template-columns: 1fr;
         overflow-y: hidden;
@@ -66,6 +67,8 @@ cursor: default;
   
   /* ========================= Media Query (SMALL DEVICE) ===================*/
   @media screen and (max-width: 600px) {
+    
+    
    .certificates__container {
         gap:1rem ;
         overflow-y: hidden;

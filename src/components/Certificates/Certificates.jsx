@@ -86,6 +86,14 @@ const Certificates = () => {
               </div>
             </article>
 
+            <article className='certificates__details'>
+              <GrCertificate className='certificates__details-icon' />
+              <div>
+                <div className='mongoDB'><a href="https://www.img.in.th/images/55ce6eb454f6020dad6e2abfa2e76c48.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">MongoDB</a></div>
+                <small className='text-light'>Beginner</small>
+              </div>
+            </article>
+
 
 
 
