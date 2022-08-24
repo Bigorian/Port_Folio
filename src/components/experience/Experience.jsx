@@ -17,8 +17,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <a href="https://html.com/" target="_blank">
-         <img alt="Qries" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" rel="noopener noreferrer"
+              <a href="https://html.com/" target="_blank" rel="noopener noreferrer">
+         <img alt="Qries" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
           /></a>
                 <small className='text-light'>Intermediate level</small>
               </div>
@@ -27,8 +27,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <a href="https://css-tricks.com/" target="_blank">
-         <img alt="Qries" src="https://extasius.com/wp-content/uploads/2020/11/css3-logo.png" rel="noopener noreferrer"
+              <a href="https://css-tricks.com/" target="_blank" rel="noopener noreferrer">
+         <img alt="Qries" src="https://extasius.com/wp-content/uploads/2020/11/css3-logo.png" 
           /></a>
                 <small className='text-light'>Intermediate level</small>
               </div>
@@ -37,8 +37,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <a href="https://www.javascript.com/" target="_blank">
-         <img alt="Qries" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" rel="noopener noreferrer"
+              <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+         <img alt="Qries" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" 
           /></a>
                 <small className='text-light'>Intermediate level</small>
               </div>
@@ -61,8 +61,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                 <a href="https://www.mongodb.com/" target="_blank">
-         <img alt="Qries" src="https://cdn.thenewstack.io/media/2021/07/3025c103-mongodb.png" rel="noopener noreferrer"
+                 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+         <img alt="Qries" src="https://cdn.thenewstack.io/media/2021/07/3025c103-mongodb.png" 
           /></a>
                 <small className='text-light'>Intermediate level</small>
               </div>
@@ -71,8 +71,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <a href="https://expressjs.com/" target="_blank">
-         <img alt="Qries" src="https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png" rel="noopener noreferrer"
+              <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+         <img alt="Qries" src="https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png" 
           /></a>
                 <small className='text-light'>Intermediate level</small>
               </div>
@@ -81,8 +81,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-         <img alt="Qries" src="https://www.macworld.com/wp-content/uploads/2022/04/setup_learn_sql_mac.jpg?quality=50&strip=all" rel="noopener noreferrer"
+              <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">
+         <img alt="Qries" src="https://www.macworld.com/wp-content/uploads/2022/04/setup_learn_sql_mac.jpg?quality=50&strip=all" 
           /></a>
                 <small className='text-light'>Intermediate level</small>
               </div>
