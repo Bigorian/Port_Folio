@@ -43,8 +43,33 @@ cursor: default;
 
 }
 
+.experiece__backend img{
+    height: 4rem;
+    border-radius: 0.5rem;
+}
+.experiece__backend img:hover{
+    scale: 1.2;
+    transition: all 750ms;
+}
+
+.experience__frontend img{
+    height: 12rem;
+    border-radius: 0.5rem;
+}
+
+.experience__frontend img:hover{
+    scale: 1.2;
+    transition: all 750ms;
+}
+
+
+
 /* ========================= Media Query (MEDIUM DEVICE) ===================*/
 @media screen and (max-width: 1024px) {
+
+  
+  
+
     .experience__container {
         grid-template-columns: 1fr;
     }
@@ -64,6 +89,10 @@ cursor: default;
   
   /* ========================= Media Query (SMALL DEVICE) ===================*/
   @media screen and (max-width: 600px) {
+    .container experience__container{
+        margin-bottom: 10rem;
+    }
+
    .experience__container {
         gap:1rem ;
 

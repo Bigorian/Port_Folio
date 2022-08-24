@@ -17,24 +17,30 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
-                <small className='text-light'>Experience</small>
+              <a href="https://html.com/" target="_blank">
+         <img alt="Qries" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
+          /></a>
+                <small className='text-light'>Intermediate level</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>CSS</h4>
-                <small className='text-light'>Beginner</small>
+              <a href="https://css-tricks.com/" target="_blank">
+         <img alt="Qries" src="https://extasius.com/wp-content/uploads/2020/11/css3-logo.png"
+          /></a>
+                <small className='text-light'>Intermediate level</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Java Script ES6</h4>
-                <small className='text-light'>Beginner</small>
+              <a href="https://www.javascript.com/" target="_blank">
+         <img alt="Qries" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"
+          /></a>
+                <small className='text-light'>Intermediate level</small>
               </div>
             </article>
 
@@ -55,24 +61,30 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Beginner</small>
+                 <a href="https://www.mongodb.com/" target="_blank">
+         <img alt="Qries" src="https://cdn.thenewstack.io/media/2021/07/3025c103-mongodb.png"
+          /></a>
+                <small className='text-light'>Intermediate level</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Express</h4>
-                <small className='text-light'>Beginner</small>
+              <a href="https://expressjs.com/" target="_blank">
+         <img alt="Qries" src="https://miro.medium.com/max/800/1*Dno6e7KS5HcdGybg9A0onQ.png"
+          /></a>
+                <small className='text-light'>Intermediate level</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>SQL</h4>
-                <small className='text-light'>Beginner</small>
+              <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+         <img alt="Qries" src="https://www.macworld.com/wp-content/uploads/2022/04/setup_learn_sql_mac.jpg?quality=50&strip=all"
+          /></a>
+                <small className='text-light'>Intermediate level</small>
               </div>
             </article>
 
