@@ -61,7 +61,9 @@ cursor: default;
     scale: 1.2;
     transition: all 750ms;
 }
-
+.experience__frontend small{
+    padding-left: 2rem;
+}
 
 
 /* ========================= Media Query (MEDIUM DEVICE) ===================*/

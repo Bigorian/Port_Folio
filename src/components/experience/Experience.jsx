@@ -20,7 +20,7 @@ const Experience = () => {
               <a href="https://html.com/" target="_blank" rel="noopener noreferrer">
          <img alt="Qries" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
           /></a>
-                <small className='text-light'>Intermediate level</small>
+                <small className='text-light'>Professional level</small>
               </div>
             </article>
 

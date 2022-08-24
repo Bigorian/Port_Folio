@@ -18,7 +18,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='code-aca1'><a href="https://sv1.picz.in.th/images/2022/07/26/XkxP9I.jpg" target="_blank"  className="text-decoration-none" rel="noopener noreferrer">Learn HTML Course (Code Academy)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -26,7 +26,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='code-aca2'><a href="https://sv1.picz.in.th/images/2022/07/26/XkQSGf.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Learn Command Line Course (Code Academy)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -34,7 +34,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='code-aca3'><a href="https://sv1.picz.in.th/images/2022/07/26/XkQcHl.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Learn Bootstrap Course (Code Academy)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -42,7 +42,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='code-aca4'><a href="https://sv1.picz.in.th/images/2022/07/26/XkQqtV.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Learn CSS Course (Code Academy)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -50,7 +50,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='code-aca4'><a href="https://www.img.in.th/images/6f74a2fda2f3c5dcb3c133f6ac14274a.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Learn Express Course (Code Academy)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -58,7 +58,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='code-aca4'><a href="https://www.img.in.th/images/654785550d13b71c0b8779cdc534dcd4.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Learn React Course (Code Academy)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -66,7 +66,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='sut-xlane1'><a href="https://sv1.picz.in.th/images/2022/07/26/XkU7ME.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Data Analytics for Beginner (SUT X-lane)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
@@ -74,7 +74,7 @@ const Certificates = () => {
               <GrCertificate className='certificates__details-icon' />
               <div>
                 <div className='sut-xlane2'><a href="https://sv1.picz.in.th/images/2022/07/26/XkUEWR.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Cyber Security for Beginner (SUT X-lane)</a></div>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate Level</small>
               </div>
             </article>
 
