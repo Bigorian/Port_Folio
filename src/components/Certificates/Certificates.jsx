@@ -17,6 +17,14 @@ const Certificates = () => {
           <article className='certificates__details'>
               <GrCertificate className='certificates__details-icon' />
               <div>
+                <div className='code-aca1'><a href="https://www.img.in.th/images/6450e40e9f2ffbdb316d18a4efde2f16.jpg" target="_blank"  className="text-decoration-none" rel="noopener noreferrer">Junior Software Developer Cohort2 (Generation Thailand)</a></div>
+                <small className='text-light'>Intermediate Level</small>
+              </div>
+            </article>
+
+          <article className='certificates__details'>
+              <GrCertificate className='certificates__details-icon' />
+              <div>
                 <div className='code-aca1'><a href="https://sv1.picz.in.th/images/2022/07/26/XkxP9I.jpg" target="_blank"  className="text-decoration-none" rel="noopener noreferrer">Learn HTML Course (Code Academy)</a></div>
                 <small className='text-light'>Intermediate Level</small>
               </div>
