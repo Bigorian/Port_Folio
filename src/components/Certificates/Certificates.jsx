@@ -13,6 +13,7 @@ import world_steel from '../../assets/0906202029.jpg';
 import thai_german from '../../assets/53257_logo_20220301102546.jpeg';
 import mtec from '../../assets/download.jpg';
 import seda from '../../assets/LOGO_SEDA_NEW.jpg';
+import ocsc from '../../assets/ocsc-big.png';
 
 
 
@@ -197,7 +198,7 @@ const Certificates = () => {
             </article>
 
             <article className='certificates__details'>
-              <GrCertificate className='certificates__details-icon' />
+            <img src={ocsc} className='certificates__details-icon' alt='ocsc'/>
               <div>
                 <div className='entrepreneur'><a href="https://www.img.in.th/images/2badd42959a175ea112ce00356d883a2.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Certificate of the results of general knowledge measurement(OCSC) </a></div>
                 <small className='text-light'>Certificate</small>
