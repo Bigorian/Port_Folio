@@ -36,7 +36,7 @@ const Certificates = () => {
             </article>
 
             <article className='certificates__details'>
-              <img src={Code_Academy} className='certificates__details-icon' alt='code_aca' />
+              <img src={Code_Academy} className='certificates__details-icon' alt="code_aca" />
               <div>
                 <div className='code-aca1'><a href="https://sv1.picz.in.th/images/2022/07/26/XkxP9I.jpg" target="_blank" className="text-decoration-none" rel="noopener noreferrer">Learn HTML Course (Code Academy)</a></div>
                 <small className='text-light'>Intermediate Level</small>
