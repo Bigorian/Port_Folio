@@ -28,7 +28,7 @@ const Certificates = () => {
           <div className="certificates__content">
 
             <article className='certificates__details'>
-              <img src={Generation} className='certificates__details-icon' />
+              <img src={Generation} className='certificates__details-icon' alt='generation' />
               <div>
                 <div className='code-aca1'><a href="https://www.img.in.th/images/6450e40e9f2ffbdb316d18a4efde2f16.jpg" target="_blank" className="text-decoration-none" rel="noopener noreferrer">Junior Software Developer Cohort2 (Generation Thailand)</a></div>
                 <small className='text-light'>Intermediate Level</small>
