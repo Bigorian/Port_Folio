@@ -11,6 +11,8 @@
     text-decoration: none;
 }
 
+
+
 /* // สร้างตัวแปรเพื่อง่ายต้อการเรียกใช้งาน */
 
 :root {
@@ -67,7 +69,7 @@ h1 {
 }
 
 section {
-    margin-top: 8rem;
+    margin-top: 12rem;
     height: 100vh;
 }
 
