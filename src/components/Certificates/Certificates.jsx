@@ -200,7 +200,7 @@ const Certificates = () => {
             <article className='certificates__details'>
             <img src={ocsc} className='certificates__details-icon' alt='ocsc'/>
               <div>
-                <div className='entrepreneur'><a href="https://www.img.in.th/images/2badd42959a175ea112ce00356d883a2.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Certificate of the results of general knowledge measurement(OCSC) </a></div>
+                <div className='ocsc'><a href="https://www.img.in.th/images/2badd42959a175ea112ce00356d883a2.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Certificate of the results of general knowledge measurement(OCSC) </a></div>
                 <small className='text-light'>Certificate</small>
               </div>
             </article>
