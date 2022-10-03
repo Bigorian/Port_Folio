@@ -80,6 +80,7 @@ cursor: default;
     .certificates__container {
         grid-template-columns: 1fr;
         overflow-y: hidden;
+        margin-top: 10px;
     }
     .certificates__container > div{
         width: 80%;
@@ -103,6 +104,8 @@ cursor: default;
    .certificates__container {
         gap:1rem ;
         overflow-y: hidden;
+        margin-top: 10px;
+        
        
 
     }

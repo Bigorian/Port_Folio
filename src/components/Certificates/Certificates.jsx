@@ -1,6 +1,5 @@
 import React from 'react';
 import './Certificates.css';
-import { GrCertificate } from 'react-icons/gr';
 import Generation from '../../assets/1634288510579.jpg';
 import Code_Academy from '../../assets/unnamed.png';
 import x_lane from '../../assets/download.png';

@@ -1,9 +1,16 @@
 footer {
+    
     background: var(--color-primary);
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
+   
+}
+
+.footer {
+
+    margin-top: 17rem;
    
 }
 
@@ -62,11 +69,13 @@ footer a{
    .permalinks{
     flex-direction:column ;
     gap: 1.5rem;
+    margin-top: 10rem;
 
    }
 
    .footer__socials{
     margin-bottom: 2.6rem;
+    
     
    }
   }

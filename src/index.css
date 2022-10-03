@@ -134,9 +134,13 @@ img {
 @media screen and (max-width: 1024px) {
     .container {
         width: var(--container-width-md);
+        font-size: 9px;
+        overflow-y: hidden;
+        padding: 3rem 3rem;
     }
     section {
         margin-top: 6rem;
+        font-size: 6px;
     }
 }
 
