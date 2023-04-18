@@ -13,6 +13,7 @@ import thai_german from '../../assets/53257_logo_20220301102546.jpeg';
 import mtec from '../../assets/download.jpg';
 import seda from '../../assets/LOGO_SEDA_NEW.jpg';
 import ocsc from '../../assets/ocsc-big.png';
+import link1 from '../../assets/600px-LinkedIn_logo_initials.png';
 
 
 
@@ -112,6 +113,22 @@ const Certificates = () => {
               <div>
                 <div className='mongoDB'><a href="https://sv1.picz.in.th/images/2022/11/06/v2TfTz.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Mongo DB (Mongo DB University)</a></div>
                 <small className='text-light'>Beginner</small>
+              </div>
+            </article>
+
+            <article className='certificates__details'>
+            <img src={link1} className='certificates__details-icon' alt='link1' />
+              <div>
+                <div className='link1'><a href="https://www.linkedin.com/learning/certificates/c053576e385c692ce606230f7e28179d66fb3f111abf08920d007bb00e37b64c?u=100575394" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Programming Foundations Fundamental</a></div>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='certificates__details'>
+            <img src={link1} className='certificates__details-icon' alt='link2' />
+              <div>
+                <div className='link2'><a href="https://www.linkedin.com/learning/certificates/d91113aa45995f0e7e6850ad392e43ae57aeff4cf3655b8904699e7f979953d6?u=100575394" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Introduction to Career Skills in Software Development</a></div>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
