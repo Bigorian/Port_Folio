@@ -5,8 +5,16 @@ import ME from '../../assets/me.png';
 import HeaderSocials from './HeaderSocials';
 
 const Header = () => {
+  const _showAlert = () =>{
+    alert("This Website is not Responsive without PC Devices\n")
+  }
+  const _showAlert1 = () =>{
+    alert("เว็บไซต์นี้ไม่รองรับการใช้งานในอุปกรณ์อื่นๆนอกจาก Personal Computer")
+  }
   return (
-   <header>
+    <header>
+     <_showAlert/>
+     <_showAlert1/>
       <div className='container header__container' id='home'>
         <h5>Hello I'm</h5>
         <h1>Wittavat Sripradit</h1>
