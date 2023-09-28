@@ -9,10 +9,15 @@ import Certificates from './components/Certificates/Certificates';
 import Contact from './components/contact/Contact';
 // Short Key 'rafce' ใช้เรียก Import React//
 
-
+const _showAlert = () =>{
+  alert("This Website is not Responsive without PC Devices\n"+"เว็บไซต์นี้ไม่รองรับการปรับขนาดกับอุปกรณ์อื่นๆยกเว้น Personal Computer")
+}
 const App = () => {
+  
   return (
+    
     <div>
+      <_showAlert/>
       <Header />
       <Nav />
       <About />
