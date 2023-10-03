@@ -9,7 +9,7 @@ const Header = () => {
   //   // alert("This Website is not Responsive without PC Devices\n")
   // }
   const ShowAlert1 = () =>{
-    alert("\nเว็บไซต์นี้ไม่รองรับการใช้งานในอุปกรณ์อื่นๆนอกจาก Personal Computer\nCreate by Wittavat S.\nBigorian The Generalist")
+    alert("\n\n            เว็บไซต์นี้ Responsive เฉพาะการใช้งานบน 'Personal Computer' \n                                 Created by 'Wittavat S.'    (Bigorian)")
   }
   return (
     <header>
