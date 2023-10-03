@@ -9,7 +9,7 @@ const Header = () => {
   //   // alert("This Website is not Responsive without PC Devices\n")
   // }
   const ShowAlert1 = () =>{
-    alert("\n\n            เว็บไซต์นี้ Responsive เฉพาะการใช้งานบน 'Personal Computer' \n                                 Created by 'Wittavat S.'    (Bigorian)")
+    alert("\n\n                              This Website is Unsupported Responsive' \n\n\n                                     Created by     Wittavat Sripradit  ")
   }
   return (
     <header>
