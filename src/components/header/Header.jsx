@@ -5,15 +5,15 @@ import ME from '../../assets/me.png';
 import HeaderSocials from './HeaderSocials';
 
 const Header = () => {
-  const ShowAlert = () =>{
-    alert("This Website is not Responsive without PC Devices\n")
-  }
+  // const ShowAlert = () =>{
+  //   // alert("This Website is not Responsive without PC Devices\n")
+  // }
   const ShowAlert1 = () =>{
-    alert("เว็บไซต์นี้ไม่รองรับการใช้งานในอุปกรณ์อื่นๆนอกจาก Personal Computer")
+    alert("\nเว็บไซต์นี้ไม่รองรับการใช้งานในอุปกรณ์อื่นๆนอกจาก Personal Computer\nCreate by Wittavat S.\nBigorian The Generalist")
   }
   return (
     <header>
-     <ShowAlert/>
+     {/* <ShowAlert/> */}
      <ShowAlert1/>
       <div className='container header__container' id='home'>
         <h5>Hello I'm</h5>
