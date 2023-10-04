@@ -225,7 +225,7 @@ const Certificates = () => {
             <article className='certificates__details'>
             <img src={diprom} className='certificates__details-icon' alt='ocsc'/>
               <div>
-                <div className='ocsc'><a href="https://sv1.picz.in.th/images/2023/10/04/ddBbyda.jpeg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Accounted Engineer Position Depaertment of Industrial Promotion </a></div>
+                <div className='ocsc'><a href="https://sv1.picz.in.th/images/2023/10/04/ddBbyda.jpeg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Accounted Engineer Position Department of Industrial Promotion(DIPROM) </a></div>
                 <small className='text-light'>Accounted</small>
               </div>
             </article>
