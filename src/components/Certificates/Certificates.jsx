@@ -14,6 +14,7 @@ import mtec from '../../assets/download.jpg';
 import seda from '../../assets/LOGO_SEDA_NEW.jpg';
 import ocsc from '../../assets/ocsc-big.png';
 import link1 from '../../assets/600px-LinkedIn_logo_initials.png';
+import diprom from '../../assets/272801998_303013721849920_6999526414867654137_n.jpg'
 
 
 
@@ -218,6 +219,14 @@ const Certificates = () => {
               <div>
                 <div className='ocsc'><a href="https://sv1.picz.in.th/images/2022/11/06/v2TRlk.jpg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Certificate of the results of general knowledge measurement(OCSC) </a></div>
                 <small className='text-light'>Certificate</small>
+              </div>
+            </article>
+
+            <article className='certificates__details'>
+            <img src={diprom} className='certificates__details-icon' alt='ocsc'/>
+              <div>
+                <div className='ocsc'><a href="https://sv1.picz.in.th/images/2023/10/04/ddBbyda.jpeg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Accounted Engineer Position Depaertment of Industrial Promotion </a></div>
+                <small className='text-light'>Accounted</small>
               </div>
             </article>
 
