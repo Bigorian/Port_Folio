@@ -15,7 +15,7 @@ import seda from '../../assets/LOGO_SEDA_NEW.jpg';
 import ocsc from '../../assets/ocsc-big.png';
 import link1 from '../../assets/600px-LinkedIn_logo_initials.png';
 import diprom from '../../assets/272801998_303013721849920_6999526414867654137_n.jpg'
-
+import dsd from '../../assets/web_link_2884_logo_20190425.gif'
 
 
 const Certificates = () => {
@@ -226,6 +226,14 @@ const Certificates = () => {
             <img src={diprom} className='certificates__details-icon' alt='ocsc'/>
               <div>
                 <div className='ocsc'><a href="https://sv1.picz.in.th/images/2023/10/04/ddBbyda.jpeg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Accounted Engineer Position Department of Industrial Promotion(DIPROM) </a></div>
+                <small className='text-light'>Accounted</small>
+              </div>
+            </article>
+
+            <article className='certificates__details'>
+            <img src={dsd} className='certificates__details-icon' alt='dsd'/>
+              <div>
+                <div className='dsd'><a href="https://img2.pic.in.th/pic/111aa6599a8f3235405.jpeg" target="_blank" class="text-decoration-none" rel="noopener noreferrer">Accounted Skill Development Academician (DSD) </a></div>
                 <small className='text-light'>Accounted</small>
               </div>
             </article>
